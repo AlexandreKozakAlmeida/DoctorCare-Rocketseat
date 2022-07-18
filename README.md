@@ -1,5 +1,7 @@
 # DoctorCare-Rocketseat
 
+Acesse o resultado do projeto: https://alexandrekozakalmeida.github.io/DoctorCare-Rocketseat/
+
 Projeto feito durante o evento da NLW da Rcketseat.
 
 O desafio teve como propósito ajudar a consolidar as bases de programação web com Html, Css e JavaScript.
